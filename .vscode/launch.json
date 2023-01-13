@@ -1,0 +1,210 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Funcoes",
+            "request": "launch",
+            "mainClass": "Funcoes_Numero_Indeterminado_Argumentos.Funcoes",
+            "projectName": "Estudos - Java_cb77de80"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste",
+            "request": "launch",
+            "mainClass": "Passagem_Valor_Referencia_Arrays.Teste",
+            "projectName": "Estudos - Java_cb77de80"
+        },
+        {
+            "type": "java",
+            "name": "Launch PassagemValor",
+            "request": "launch",
+            "mainClass": "Passagem_Valor_Referencia_Arrays.PassagemValor",
+            "projectName": "Estudos - Java_cb77de80"
+        },
+        {
+            "type": "java",
+            "name": "Launch Funcao_Arrays",
+            "request": "launch",
+            "mainClass": "Funções_Em_Arrays.Funcao_Arrays",
+            "projectName": "Estudos - Java_cb77de80"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayPersonalizado",
+            "request": "launch",
+            "mainClass": "ArrayPersonalizado",
+            "projectName": "Estudos - Java_cb77de80"
+        },
+        {
+            "type": "java",
+            "name": "Launch NovoArray",
+            "request": "launch",
+            "mainClass": "NovoArray",
+            "projectName": "Estudos - Java_cb77de80"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchCase",
+            "request": "launch",
+            "mainClass": "switch_case.SwitchCase",
+            "projectName": "Estudos - Java_cb77de80"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstratctPrincipal",
+            "request": "launch",
+            "mainClass": "Classe_Abstrata.AbstratctPrincipal",
+            "projectName": "Estudos - Java_cb77de80"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfacePrincipal",
+            "request": "launch",
+            "mainClass": "Interface_Java.InterfacePrincipal",
+            "projectName": "Estudos - Java_cb77de80"
+        },
+        {
+            "type": "java",
+            "name": "Launch RevisaoPrincipal",
+            "request": "launch",
+            "mainClass": "Heranca.RevisaoPrincipal",
+            "projectName": "Estudos - Java_cb77de80"
+        },
+        {
+            "type": "java",
+            "name": "Launch Principal",
+            "request": "launch",
+            "mainClass": "_Praticando.Principal",
+            "projectName": "Estudos - Java_cb77de80"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrincipalGenerico",
+            "request": "launch",
+            "mainClass": "Generics.PrincipalGenerico",
+            "projectName": "Estudos - Java_cb77de80"
+        },
+        {
+            "type": "java",
+            "name": "Launch Estrutura",
+            "request": "launch",
+            "mainClass": "EstruturaDeDados.Estrutura",
+            "projectName": "Códigos_dc7c4a12"
+        },
+        {
+            "type": "java",
+            "name": "Launch Principal",
+            "request": "launch",
+            "mainClass": "Jogo.Principal",
+            "projectName": "Códigos_dc7c4a12"
+        },
+        {
+            "type": "java",
+            "name": "Launch Heranca",
+            "request": "launch",
+            "mainClass": "Heranca.Heranca",
+            "projectName": "Códigos_dc7c4a12"
+        },
+        {
+            "type": "java",
+            "name": "Launch Static",
+            "request": "launch",
+            "mainClass": "Static_Metodo.Static",
+            "projectName": "Códigos_dc7c4a12"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jogo",
+            "request": "launch",
+            "mainClass": "GetESet.Jogo",
+            "projectName": "Códigos_dc7c4a12"
+        },
+        {
+            "type": "java",
+            "name": "Launch GetSet",
+            "request": "launch",
+            "mainClass": "GetESet.GetSet",
+            "projectName": "Códigos_dc7c4a12"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "Códigos_dc7c4a12"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora",
+            "projectName": "Códigos_dc7c4a12"
+        },
+        {
+            "type": "java",
+            "name": "Launch Classe",
+            "request": "launch",
+            "mainClass": "Classe.Classe",
+            "projectName": "Códigos_dc7c4a12"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bolao",
+            "request": "launch",
+            "mainClass": "Exercicio.Bolao",
+            "projectName": "Códigos_dc7c4a12"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matrizes",
+            "request": "launch",
+            "mainClass": "Matrizes",
+            "projectName": "Códigos_dc7c4a12"
+        },
+        {
+            "type": "java",
+            "name": "Launch Metodos",
+            "request": "launch",
+            "mainClass": "Metodos",
+            "projectName": "Códigos_dc7c4a12"
+        },
+        {
+            "type": "java",
+            "name": "Launch MétodosArrays",
+            "request": "launch",
+            "mainClass": "MétodosArrays",
+            "projectName": "Códigos_dc7c4a12"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteVetores",
+            "request": "launch",
+            "mainClass": "TesteVetores",
+            "projectName": "Códigos_dc7c4a12"
+        },
+        {
+            "type": "java",
+            "name": "Launch testandoArrays",
+            "request": "launch",
+            "mainClass": "testandoArrays",
+            "projectName": "Códigos_dc7c4a12"
+        },
+        {
+            "type": "java",
+            "name": "Launch testandoMetodos",
+            "request": "launch",
+            "mainClass": "testandoMetodos",
+            "projectName": "Códigos_dc7c4a12"
+        }
+    ]
+}
