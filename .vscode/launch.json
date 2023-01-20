@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Matriz",
+            "request": "launch",
+            "mainClass": "Matrizes.Matriz",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
             "name": "Launch Funcoes",
             "request": "launch",
             "mainClass": "Funcoes_Numero_Indeterminado_Argumentos.Funcoes",
