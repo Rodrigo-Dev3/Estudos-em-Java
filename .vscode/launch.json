@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TreinandoListas",
+            "request": "launch",
+            "mainClass": "Listas.TreinandoListas",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
+            "name": "Lista",
+            "request": "launch",
+            "mainClass": "Listas.Lista",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
+            "name": "Launch Static",
+            "request": "launch",
+            "mainClass": "Static_Metodo.Static",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
             "name": "Launch Matriz",
             "request": "launch",
             "mainClass": "Matrizes.Matriz",

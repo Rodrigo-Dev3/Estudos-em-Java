@@ -16,6 +16,9 @@ public class Static {
     novoJogador01.informacaoJogadores();
 
 
+    System.out.println(ClasseStatic.mostrarMensagemBoasVindas(novoJogador01.GetNome()));
+
+
 
     Jogador novoJogador02 = new Jogador();
     
