@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InstanciandoDataHora",
+            "request": "launch",
+            "mainClass": "Data_Hora.InstanciandoDataHora",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
             "name": "TreinandoListas",
             "request": "launch",
             "mainClass": "Listas.TreinandoListas",
