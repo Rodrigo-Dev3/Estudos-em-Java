@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ObterDataHoraLocal",
+            "request": "launch",
+            "mainClass": "Data_Hora.ObterDataHoraLocal",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
+            "name": "ConverterLocalGlobal",
+            "request": "launch",
+            "mainClass": "Data_Hora.ConverterLocalGlobal",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
+            "name": "FormatacaoDataHora",
+            "request": "launch",
+            "mainClass": "Data_Hora.FormatacaoDataHora",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
             "name": "InstanciandoDataHora",
             "request": "launch",
             "mainClass": "Data_Hora.InstanciandoDataHora",
