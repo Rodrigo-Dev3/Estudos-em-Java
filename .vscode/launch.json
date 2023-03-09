@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DuracaoDuasDatasHora",
+            "request": "launch",
+            "mainClass": "Data_Hora.DuracaoDuasDatasHora",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
+            "name": "CalculosDataHora",
+            "request": "launch",
+            "mainClass": "Data_Hora.CalculosDataHora",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
             "name": "ObterDataHoraLocal",
             "request": "launch",
             "mainClass": "Data_Hora.ObterDataHoraLocal",
