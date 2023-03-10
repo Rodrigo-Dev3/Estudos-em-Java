@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestandoEnum",
+            "request": "launch",
+            "mainClass": "Enumeracoes.TestandoEnum",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
             "name": "DuracaoDuasDatasHora",
             "request": "launch",
             "mainClass": "Data_Hora.DuracaoDuasDatasHora",
