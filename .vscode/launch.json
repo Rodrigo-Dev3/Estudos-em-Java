@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Padroes_Projetos.main",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
             "name": "TestandoEnum",
             "request": "launch",
             "mainClass": "Enumeracoes.TestandoEnum",
