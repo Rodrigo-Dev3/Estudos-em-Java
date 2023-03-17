@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Calendario",
+            "request": "launch",
+            "mainClass": "Data_Hora.Calendario",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
             "name": "main",
             "request": "launch",
             "mainClass": "Padroes_Projetos.main",
