@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrincipalConta",
+            "request": "launch",
+            "mainClass": "UpcastingDowncasting.PrincipalConta",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
             "name": "Calendario",
             "request": "launch",
             "mainClass": "Data_Hora.Calendario",
