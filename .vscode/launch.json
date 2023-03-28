@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrincipalFormas",
+            "request": "launch",
+            "mainClass": "Metodos_Abstratos.PrincipalFormas",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
             "name": "PrincipalConta",
             "request": "launch",
             "mainClass": "UpcastingDowncasting.PrincipalConta",

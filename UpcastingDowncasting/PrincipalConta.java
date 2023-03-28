@@ -1,9 +1,12 @@
 package UpcastingDowncasting;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class PrincipalConta {
     public static void main(String[] args) {
         
-        Conta novaConta = new Conta(555, "Frederico", 0.0);
+        Conta novaConta = new Conta(555, "Frederico", 0.0); //Não pode ser instanciada pois a classe base Conta foi definida como Abstract
         ContaNegocios novaContaNegocios = new ContaNegocios(5556, "Maria", 0.0, 500.0);
 
         //UPCASTING
@@ -35,7 +38,6 @@ public class PrincipalConta {
         //     System.out.println("Saldo atualizado: ");
         //     System.out.print(contaDownCasting5.saldoConta);
         // }
-
 
     }
 }

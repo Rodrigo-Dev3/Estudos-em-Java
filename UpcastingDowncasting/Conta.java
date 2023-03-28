@@ -1,6 +1,6 @@
 package UpcastingDowncasting;
 
-public class Conta {
+public abstract class Conta {
 
     //Classe pai - possui os métodos e atributos principais da CONTA
 
