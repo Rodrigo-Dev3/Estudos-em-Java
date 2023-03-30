@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrincipalReservaQuarto",
+            "request": "launch",
+            "mainClass": "PrincipalReservaQuarto",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
+            "name": "TryCatch",
+            "request": "launch",
+            "mainClass": "TryCatch",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
             "name": "PrincipalFormas",
             "request": "launch",
             "mainClass": "Metodos_Abstratos.PrincipalFormas",
