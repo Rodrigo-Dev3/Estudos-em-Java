@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ManipularPastasComFile",
+            "request": "launch",
+            "mainClass": "LerArquivos.ManipularPastasComFile",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
+            "name": "EscreverComFileWriter",
+            "request": "launch",
+            "mainClass": "LerArquivos.EscreverComFileWriter",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
+            "name": "LerComFileReader",
+            "request": "launch",
+            "mainClass": "LerArquivos.LerComFileReader",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
+            "name": "LerComFileEScanner",
+            "request": "launch",
+            "mainClass": "LerArquivos.LerComFileEScanner",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
             "name": "PrincipalReservaQuarto",
             "request": "launch",
             "mainClass": "PrincipalReservaQuarto",
