@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InformacoesCaminhoArquivos",
+            "request": "launch",
+            "mainClass": "LerArquivos.InformacoesCaminhoArquivos",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
             "name": "ManipularPastasComFile",
             "request": "launch",
             "mainClass": "LerArquivos.ManipularPastasComFile",
