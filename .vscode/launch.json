@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "oil",
+            "request": "launch",
+            "mainClass": "Interface_Heranca_Java.oil",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
+            "name": "Herenca_Interface",
+            "request": "launch",
+            "mainClass": "Interface_Heranca_Java.Herenca_Interface",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
+            "name": "Funcoes",
+            "request": "launch",
+            "mainClass": "Funcoes_Numero_Indeterminado_Argumentos.Funcoes",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Interface_Heranca_Java.Principal",
+            "projectName": "Estudos-em-Java_defad404"
+        },
+        {
+            "type": "java",
             "name": "InformacoesCaminhoArquivos",
             "request": "launch",
             "mainClass": "LerArquivos.InformacoesCaminhoArquivos",
